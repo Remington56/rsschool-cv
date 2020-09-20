@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #4d4d4d;
+}
+
+.mainBlock {
+  background: #8a8a8a;
+  width: 1024px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#image {
+  width: 150px;
+  height: auto;
+}
