@@ -1,11 +1,20 @@
 body {
   margin: 0;
   padding: 0;
-  background: #4d4d4d;
+  background: #333;
+}
+
+header {
+  color: #52d154;
+  text-align: center;
+}
+
+h4 {
+  width: auto;
 }
 
 .mainBlock {
-  background: #8a8a8a;
+  background: #fff196;
   width: 1024px;
   margin: 0 auto;
   padding: 10px;
@@ -14,4 +23,18 @@ body {
 #image {
   width: 150px;
   height: auto;
+}
+
+.column {
+  width: auto;
+  height: auto;
+  display: inline-block;
+}
+
+section {
+  display: block;
+  padding: 10px 10px;
+  margin: 10px;
+  background: #52d154;
+  border-radius: 10px;
 }
